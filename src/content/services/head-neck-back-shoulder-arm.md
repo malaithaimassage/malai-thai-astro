@@ -20,6 +20,7 @@ paragraphs_es:
 - "Masaje focalizado para aliviar la tensión en cabeza, cuello, hombros y parte superior de la espalda."
 - "Ayuda a reducir la rigidez muscular, los dolores de cabeza y el estrés."
 - "Ideal para trabajadores de oficina, viajeros y personas con tensión acumulada."
+prices:
 - duration: "60 min"
-price: 65
+  price: 65
 ---
