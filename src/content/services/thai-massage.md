@@ -20,10 +20,10 @@ paragraphs_es:
   - "Esta técnica no solo alivia la tensión muscular, sino que también mejora la movilidad articular, la postura y el equilibrio interno. Es especialmente beneficiosa para personas con estilos de vida sedentarios, deportistas o cualquiera que busque rejuvenecimiento físico y mental."
   - "Ya sea que busques reducir el estrés, aumentar la flexibilidad o simplemente disfrutar de un momento de autocuidado, el Masaje Tailandés Tradicional ofrece una experiencia profundamente restauradora para cuerpo y mente."
 prices:
-  - duration: "30 min"
-    price: 45
   - duration: "60 min"
     price: 70
   - duration: "90 min"
     price: 100
+  - duration: "120 min"
+    price: 130
 ---
