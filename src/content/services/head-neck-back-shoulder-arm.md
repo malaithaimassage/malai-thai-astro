@@ -5,18 +5,21 @@ img: "/aroma-massage/IMG_0267.webp"
 description: "A targeted massage to relieve tension in the head, neck, shoulders and upper back."
 description_es: "Masaje focalizado para aliviar la tensión en cabeza, cuello, hombros y parte superior de la espalda."
 sortOrder: 3
+
 images:
-  - /aroma-massage/IMG_0271.webp
-  - /aroma-massage/IMG_0269.webp
-  - /aroma-massage/IMG_0270.webp
+- /aroma-massage/IMG_0271.webp
+- /aroma-massage/IMG_0269.webp
+- /aroma-massage/IMG_0270.webp
+
 paragraphs:
-  - "A focused massage designed to relieve tension in the head, neck, shoulders and upper back—areas most affected by stress and daily posture."
-  - "This treatment helps ease muscle tightness, reduce headaches, improve circulation and restore mobility in the upper body."
-  - "Ideal for office workers, travelers, or anyone experiencing stiffness, stress or fatigue in the neck and shoulders."
+- "A focused massage designed to relieve tension in the head, neck, shoulders and upper back."
+- "Helps reduce muscle stiffness, headaches and stress."
+- "Ideal for office workers, travelers and anyone with accumulated tension."
+
 paragraphs_es:
-  - "Masaje focalizado para aliviar la tensión en cabeza, cuello, hombros y parte superior de la espalda, zonas muy afectadas por el estrés y la postura diaria."
-  - "Este tratamiento ayuda a reducir la rigidez muscular, aliviar dolores de cabeza, mejorar la circulación y devolver movilidad a la parte superior del cuerpo."
-  - "Ideal para personas que trabajan sentadas, viajeros o quienes sienten carga, estrés o fatiga en cuello y hombros."
-  - duration: "60 min"
-    price: 65
+- "Masaje focalizado para aliviar la tensión en cabeza, cuello, hombros y parte superior de la espalda."
+- "Ayuda a reducir la rigidez muscular, los dolores de cabeza y el estrés."
+- "Ideal para trabajadores de oficina, viajeros y personas con tensión acumulada."
+- duration: "60 min"
+price: 65
 ---
