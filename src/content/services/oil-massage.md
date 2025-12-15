@@ -20,10 +20,10 @@ paragraphs_es:
   - "A diferencia del masaje tailandés tradicional, esta versión ofrece una experiencia más fluida y tranquila, ideal para quienes prefieren un enfoque más suave. Los aceites no solo reducen la fricción durante el masaje, sino que también hidratan la piel, dejándola suave, tersa y ligeramente perfumada."
   - "El masaje tailandés con aceite es especialmente recomendado para aliviar el estrés, la fatiga muscular y el bienestar general. Es una opción perfecta si deseas relajarte, desconectar y disfrutar de un momento de paz y cuidado."
 prices:
-  - duration: "30 min"
-    price: 40
   - duration: "60 min"
-    price: 65
+    price: 70
   - duration: "90 min"
-    price: 95
+    price: 100
+  - duration: "120 min"
+    price: 130
 ---
