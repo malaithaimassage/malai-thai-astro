@@ -40,7 +40,7 @@ export default {
   },
   location: {
     title: "Where to find us",
-    address: "Centro Comercial Puerto Calero Plaza, Lanzarote",
+    address: "Centro Comercial Puerto Calero Plaza Calle tanunsu 18, Lanzarote",
     hours: "Opening Hours:",
     schedule: "Mon–Tue & Thu–Sun: 10:30 – 19:00 • Closed Wed",
   },
