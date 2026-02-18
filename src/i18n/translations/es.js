@@ -18,8 +18,6 @@ export default {
     servicesList: [
       "Masaje Tailandés Tradicional",
       "Masaje Tailandés con Aceite",
-      "Masaje con Aromaterapia",
-      "Masaje de Pies",
       "Masaje de Cuello-Hombros-Espalda"
     ],
     benefits: "Todos diseñados para aliviar la tensión, estimular la circulación sanguínea y restaurar el equilibrio tanto del cuerpo como de la mente.",
@@ -37,17 +35,14 @@ export default {
     info: "Información",
     reachMe: "Dónde encontrarme",
     thankYou: "Gracias por tu interés en Malai Thai Massage.",
-    preparation: "Nuestra tienda está actualmente en preparativos finales, incluyendo papeleo y diseño interior, mientras nos preparamos para la gran apertura.",
-    offering: "Mientras tanto, estoy ofreciendo un número limitado de sesiones de masaje tailandés relajantes y profesionales cada día, disponibles desde mi casa.",
     bookSession: "Si deseas reservar una sesión o saber más, no dudes en contactarme a través de cualquiera de mis opciones de contacto.",
     lookForward: "¡Espero darte la bienvenida pronto!"
   },
   location: {
     title: "Dónde encontrarnos",
-    address: "Centro Comercial Puerto Calero, Lanzarote",
+    address: "Centro Comercial Puerto Calero Plaza , Lanzarote",
     hours: "Horario de apertura:",
-    schedule: "Lunes – Domingo: 10:00 – 22:00",
-    opening: "¡Próxima apertura!"
+    schedule: "Lun–Mar y Jue–Dom: 10:00 – 22:00 • Cerrado los miércoles",
   },
   buttons: {
     book: "¡Reserva ahora!"
