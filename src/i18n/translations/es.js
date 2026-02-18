@@ -42,7 +42,7 @@ export default {
     title: "Dónde encontrarnos",
     address: "Centro Comercial Puerto Calero Plaza , Lanzarote",
     hours: "Horario de apertura:",
-    schedule: "Lun–Mar y Jue–Dom: 10:00 – 22:00 • Cerrado los miércoles",
+    schedule: "Lun–Mar y Jue–Dom: 10:30 – 19:00 • Cerrado los miércoles",
   },
   buttons: {
     book: "¡Reserva ahora!"
