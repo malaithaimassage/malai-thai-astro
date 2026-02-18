@@ -42,7 +42,7 @@ export default {
     title: "Where to find us",
     address: "Centro Comercial Puerto Calero Plaza, Lanzarote",
     hours: "Opening Hours:",
-    schedule: schedule: "Mon–Tue & Thu–Sun: 10:30 – 19:00 • Closed Wed",
+    schedule: "Mon–Tue & Thu–Sun: 10:30 – 19:00 • Closed Wed",
   },
   buttons: {
     book: "Book now!"
