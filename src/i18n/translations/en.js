@@ -18,8 +18,6 @@ export default {
     servicesList: [
       "Traditional Thai Massage",
       "Thai Oil Massage",
-      "Aromatherapy Massage",
-      "Foot Massage",
       "Neck-Shoulder-Back Massage"
     ],
     benefits: "All designed to relieve tension, stimulate blood circulation, and restore balance to both body and mind.",
@@ -37,17 +35,14 @@ export default {
     info: "Info",
     reachMe: "Where to reach me",
     thankYou: "Thank you for your interest in Malai Thai Massage.",
-    preparation: "Our shop is currently undergoing final preparations, including paperwork and interior design, as we get ready for the grand opening.",
-    offering: "In the meantime, I'm offering a limited number of relaxing and professional Thai massage sessions each day, available from my home.",
     bookSession: "If you'd like to book a session or learn more, feel free to contact me via any of my contact options.",
     lookForward: "I look forward to welcoming you soon!"
   },
   location: {
     title: "Where to find us",
-    address: "Centro Comercial Puerto Calero, Lanzarote",
+    address: "Centro Comercial Puerto Calero Plaza, Lanzarote",
     hours: "Opening Hours:",
-    schedule: "Monday – Sunday: 10:00 – 22:00",
-    opening: "Next opening soon!"
+    schedule: schedule: "Mon–Tue & Thu–Sun: 10:30 – 19:00 • Closed Wed",
   },
   buttons: {
     book: "Book now!"
