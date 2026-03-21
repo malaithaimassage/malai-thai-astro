@@ -2,8 +2,12 @@
 title: "Thai Oil Massage"
 title_es: "Masaje Tailandés con Aceite"
 img: "/oil-massage/IMG_0182.webp"
-description: "A relaxing massage using premium oils to soothe muscles and nourish your skin."
-description_es: "Un masaje relajante que utiliza aceites premium para calmar los músculos y nutrir tu piel."
+description: "Traditional Thai massage performed with oil.
+Combines deep muscle line work and rolling techniques with stretching and pressure.
+Strong, effective treatment designed to release deep tension and restore body balance."
+description_es: "Masaje tailandés realizado con aceite.
+Combina trabajo profundo en las líneas musculares y técnicas de rodamiento con estiramientos y presión.
+Tratamiento fuerte y efectivo para liberar tensión profunda y equilibrar el cuerpo."
 sortOrder: 2
 images:
   - /oil-massage/IMG_0183.webp
