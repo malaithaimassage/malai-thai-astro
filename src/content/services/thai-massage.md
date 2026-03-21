@@ -2,8 +2,13 @@
 title: "Traditional Thai Massage"
 title_es: "Masaje Tailandés Tradicional"
 img: "/thai-massage/IMG_0178.webp"
-description: "Experience authentic Thai massage techniques that combine acupressure, stretching, and energy work for deep relaxation and renewal."
-description_es: "Experimenta técnicas auténticas de masaje tailandés que combinan acupresión, estiramientos y trabajo energético para una profunda relajación y renovación."
+description: "Experience authentic Thai massage techniquesTraditional Thai massage using deep pressure and stretching.
+Helps release muscle tension, improve flexibility and restore body balance.
+Ideal for those who prefer strong, effective treatment."
+description_es: "Experimenta técnicas auténticas de masaje tailandés con presión profunda y estiramientos.
+Ayuda a liberar la tensión muscular, mejorar la flexibilidad y equilibrar el cuerpo.
+Ideal para quienes prefieren un masaje fuerte y efectivo.
+"
 sortOrder: 1
 images:
   - /thai-massage/IMG_0187.webp
