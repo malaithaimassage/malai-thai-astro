@@ -23,7 +23,7 @@ prices:
   - duration: "60 min"
     price: 70
   - duration: "90 min"
-    price: 100
+    price: 105
   - duration: "120 min"
-    price: 130
+    price: 140
 ---
