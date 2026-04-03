@@ -25,7 +25,7 @@ paragraphs_es:
   - "El masaje tailandés con aceite es especialmente recomendado para aliviar el estrés, la fatiga muscular y el bienestar general. Es una opción perfecta si deseas relajarte, desconectar y disfrutar de un momento de paz y cuidado."
 prices:
   - duration: "60 min"
-    price: 70
+    price: 75
   - duration: "90 min"
     price: 105
   - duration: "120 min"
