@@ -22,5 +22,5 @@ paragraphs_es:
 - "Ideal para trabajadores de oficina, viajeros y personas con tensión acumulada."
 prices:
 - duration: "60 min"
-  price: 75
+  price: 80
 ---
