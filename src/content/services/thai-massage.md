@@ -26,9 +26,9 @@ paragraphs_es:
   - "Ya sea que busques reducir el estrés, aumentar la flexibilidad o simplemente disfrutar de un momento de autocuidado, el Masaje Tailandés Tradicional ofrece una experiencia profundamente restauradora para cuerpo y mente."
 prices:
   - duration: "60 min"
-    price: 75
+    price: 80
   - duration: "90 min"
-    price: 105
+    price: 110
   - duration: "120 min"
-    price: 140
+    price: 155
 ---
