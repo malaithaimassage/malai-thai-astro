@@ -38,6 +38,15 @@ export default {
     bookSession: "Si deseas reservar una sesión o saber más, no dudes en contactarme a través de cualquiera de mis opciones de contacto.",
     lookForward: "¡Espero darte la bienvenida pronto!"
   },
+  <div class="mt-8 text-center">
+<a
+href="https://book.heygoldie.com/MalaiThaiMassageLanzarote"
+target="_blank"
+class="inline-flex items-center gap-2 px-8 py-3 bg-[var(--color-atention)] text-white rounded-full font-semibold shadow-md hover:opacity-90"
+>
+🌿 Reserva Tu Sesión
+</a>
+</div>
   location: {
     title: "Dónde encontrarnos",
     address: "Centro Comercial Puerto Calero Plaza Calle tanunsu 18, Lanzarote",
