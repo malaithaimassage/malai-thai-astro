@@ -31,13 +31,14 @@ export default {
     title: "Nuestros Precios",
   },
   contact: {
-    title: "Contáctame",
-    info: "Información",
-    reachMe: "Dónde encontrarme",
-    thankYou: "Gracias por tu interés en Malai Thai Massage.",
-    bookSession: "Si deseas reservar una sesión o saber más, no dudes en contactarme a través de cualquiera de mis opciones de contacto.",
-    lookForward: "¡Espero darte la bienvenida pronto!"
-  },
+  title: "Contáctame",
+  info: "Información",
+  reachMe: "Dónde encontrarme",
+  thankYou: "Gracias por tu interés en Malai Thai Massage.",
+  bookSession: "Si deseas reservar una sesión o saber más, no dudes en contactarme.",
+  lookForward: "¡Espero darte la bienvenida pronto!",
+  bookButton: "🌿 Reserva Tu Sesión"
+},
   location: {
     title: "Dónde encontrarnos",
     address: "Centro Comercial Puerto Calero Plaza Calle tanunsu 18, Lanzarote",
